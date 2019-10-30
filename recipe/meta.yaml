@@ -1,5 +1,5 @@
 {% set name = "startables" %}
-{% set version = "0.8.1" %}
+{% set version = "0.8.2" %}
 
 package:
   name: "{{ name|lower }}"
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 186403164147fba3ee5e2e593290854645f29c7bf73cea5972107977a669774b
+  sha256: fe9f56632a3f8ec56998c723ade039fa0dfa601dd751e8f44c0bb839a4027b2c
 
 build:
   number: 0
