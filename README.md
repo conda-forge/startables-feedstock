@@ -5,9 +5,13 @@ Home: https://github.com/startable/startables-python
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/startables-feedstock/blob/master/LICENSE.txt)
 
 Summary: Reads, writes, and manipulates data stored in StarTable format
+
+Development: https://github.com/startable/startables-python
+
+Documentation: https://github.com/startable/startables-python
 
 Python package with data structures and functionality to read/write files
 in StarTable format and contain and manipulate the information therein.
@@ -118,5 +122,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@heidikira](https://github.com/heidikira/)
 * [@jfcorbett](https://github.com/jfcorbett/)
 
